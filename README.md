@@ -1,4 +1,4 @@
-SDG Sandbox
+<Name> Sandbox
 ===========
 
 About
