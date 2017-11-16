@@ -7,4 +7,3 @@ Repository is used for crash course learning of new concepts and technology, as 
 
 ### Contributors
 * Matt Markwald
-
