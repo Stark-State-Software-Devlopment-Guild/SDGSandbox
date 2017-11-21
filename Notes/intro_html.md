@@ -16,6 +16,8 @@ In short, Html is used to pass information to the browser on how to style pages.
 Keywords surrounded by angle brackets that are read by the rendering engine. After parsing the file, the engine applies style based on the surrounding 'tags'.
 
 #### Paragraph Tag
+The paragraph tag is the most basic text display tag. It displays the inner-text in block format. Used for the main body of a given section.
+
 ###### For example:
 
 ```{.html caption="Hello World"}
@@ -30,9 +32,10 @@ The above example uses simple paragraph tags \<p\> to enclose the plaintext betw
 Notice the \/ before the p in the second tag.
 This indicates this this the closing tag tells the browser to end paragraph styling there.
 
-There are many different tags used for templating.
 
 #### Header Tags
+Header tags are used to introduce different sections of your pages.
+
 ###### For example:
 
 ```{.html caption="Hello Headers"}
@@ -47,9 +50,9 @@ There are many different tags used for templating.
 > <h2>Hello Header2!</h2>
 > <p>Hello Paragraph!</p>
 
-Other useful tags include ordered and unordered lists.
-
 #### List Tags
+List tags can be used to separate independent sets of data.
+
 ###### For example:
 
 ```{.html caption="Lists"}
