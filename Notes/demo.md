@@ -13,7 +13,7 @@ An introduction to Html
 In short: Html is used to pass information to the browser on how to style pages.
 
 ### What are Tags?
-The html syntax is read by the rendering engine which applies the style based on the surrounding 'tags'.
+Keywords surrounded by angle brackets that are read by the rendering engine. After parsing the file, the engine applies style based on the surrounding 'tags'.
 
 ###### For example:
 
