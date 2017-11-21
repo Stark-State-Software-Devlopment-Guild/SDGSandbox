@@ -77,8 +77,9 @@ Other useful tags include ordered and unordered lists.
 >	<li>Item 3</li>
 ><ul> 
 
-### Profile Demo
-##### Objective:
+Profile Demo
+------------
+### Objective:
 Create a pasic profile with your name in an h1 header, about me with an h2 header, a paragraph block with an a summary of yourself, include an ordered list and an unordered list of your choice (favorite movies, expectations, quick facts about yourself)
 
 ###### Example:
