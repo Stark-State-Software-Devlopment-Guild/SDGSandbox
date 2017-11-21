@@ -87,9 +87,15 @@ Create a pasic profile with your name in an h1 header, about me with an h2 heade
 ```{.html caption="Profil Demo"}
 <h1>Matt Markwald</h1>
 <h2>about me:</h2>
-<p>
-	I have been coding since April 2016, I currently code in vb, c#, php, html/css, and some sql.
-</p>
+<p>I have been coding since April 2016.</p>
+<p>I currently code in:</p>
+<ul>
+	<li>vb</li>
+	<li>c#</li>
+	<li>php</li>
+	<li>html/css</li>
+	<li>sql</li>
+</ul>
 ```
 
 ###### Result:
