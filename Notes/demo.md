@@ -10,7 +10,7 @@ An introduction to Html
 > * HTML tags label pices of content such as "heading", "paragraph", "table", and so on
 > * Browsers do not display HTML tags, but use them to render the content of the page
 
-In short: Html is used to pass information to the browser on how to style pages.
+In short, Html is used to pass information to the browser on how to style pages.
 
 ### What are Tags?
 Keywords surrounded by angle brackets that are read by the rendering engine. After parsing the file, the engine applies style based on the surrounding 'tags'.
