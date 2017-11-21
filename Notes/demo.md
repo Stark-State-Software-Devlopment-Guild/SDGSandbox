@@ -77,9 +77,26 @@ Other useful tags include ordered and unordered lists.
 >	<li>Item 3</li>
 ><ul> 
 
+### Profil Demo
+##### Objective:
+Create a pasic profile with your name in an h1 header, about me with an h2 header, a paragraph block with an a summary of yourself, include an ordered list and an unordered list of your choice (favorite movies, expectations, quick facts about yourself)
 
+###### Example:
 
+```{.html caption="Profil Demo"}
+<h1>Matt Markwald</h1>
+<h2>about me:</h2>
+<p>
+	I have been coding since April 2016, I currently code in vb, c#, php, html/css, and some sql.
+</p>
+```
 
+###### Result:
+> <h1>Matt Markwald</h1>
+> <h2>about me:</h2>
+> <p>
+> 	I have been coding since April 2016, I currently code in vb, c#, php, html/css, and some sql.
+> </p>
 
 
 
