@@ -89,7 +89,7 @@ List tags can be used to separate independent sets of data. Very useful for sett
 Profile Demo
 ------------
 ### Objective:
-Create a pasic profile with your name in an h1 header, about me with an h2 header, a paragraph block with an a summary of yourself, include an ordered list and an unordered list of your choice (favorite movies, expectations, quick facts about yourself)
+Create a basic profile with your name in an h1 header, about me with an h2 header, a paragraph block with an a summary of yourself, and an ordered or unordered list topic is your choice (i.e. favorite movies, goals, what your learning, facts about yourself, etc)
 
 ###### Example:
 
