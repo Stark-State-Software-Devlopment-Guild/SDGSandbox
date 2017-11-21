@@ -47,7 +47,7 @@ Header tags are used to introduce different sections of your pages.
 
 ###### Will produce:
 
-> <h1>Hello Header!</h1>
+> <h1>Hello Header1!</h1>
 > <h2>Hello Header2!</h2>
 > <h3>Hello Header3!</h3>
 > <h4>Hello Header4!</h4>
