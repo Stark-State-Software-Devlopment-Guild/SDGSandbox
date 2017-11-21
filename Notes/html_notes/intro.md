@@ -29,12 +29,11 @@ The paragraph tag is the most basic text display tag. It displays the inner-text
 > <p>Hello World!</p>
 
 The above example uses simple paragraph tags \<p\> to enclose the plaintext between them.
-Notice the \/ before the p in the second tag.
-This indicates this this the closing tag tells the browser to end paragraph styling there.
-
+Notice the \'/' before the 'p' in the second tag.
+This indicates this is a closing which tells the browser to end paragraph styling there.
 
 #### Header Tags
-Header tags are used to introduce different sections of your pages.
+Header tags are used to introduce different sections of your pages. They help break up the flow of information displayed in your page and make articles easier to read.
 
 ###### For example:
 
@@ -53,7 +52,7 @@ Header tags are used to introduce different sections of your pages.
 > <h4>Hello Header4!</h4>
 
 #### List Tags
-List tags can be used to separate independent sets of data.
+List tags can be used to separate independent sets of data. Very useful for setting information apart from bigger blocks of text.
 
 ###### For example:
 
