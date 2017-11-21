@@ -1,4 +1,4 @@
-An introduction to Html
+An introduction to html
 -------------
 ### What is html?
 ###### From the [W3Schools][0] Website:
