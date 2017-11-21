@@ -1,5 +1,3 @@
-Html Demo
-=========
 An introduction to Html
 -------------
 ### What is html?
