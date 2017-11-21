@@ -15,13 +15,13 @@ In short: Html is used to pass information to the browser on how to style pages.
 ### What are Tags?
 The html syntax is read by the rendering engine which applies the style based on the surrounding 'tags'.
 
-##### For example:*
+###### For example:
 
 ```{.html caption="Hello World"}
 <p>Hello World!</p>
 ```
 
-##### Will produce:
+###### Will produce:
 
 > <p>Hello World!</p>
 
@@ -31,7 +31,7 @@ This indicates this this the closing tag tells the browser to end paragraph styl
 
 There are many different tags used for templating.
 
-##### For example:
+###### For example:
 
 ```{.html caption="Hello Headers"}
 <h1>Hello Header!</h1>
@@ -39,7 +39,7 @@ There are many different tags used for templating.
 <p>Hello Paragraph!</p>
 ```
 
-##### Will produce:
+###### Will produce:
 
 > <h1>Hello Header!</h1>
 > <h2>Hello Header2!</h2>
@@ -47,7 +47,7 @@ There are many different tags used for templating.
 
 Other useful tags include ordered and unordered lists.
 
-##### For example:
+###### For example:
 
 ```{.html caption="Lists"}
 <ol>
