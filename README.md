@@ -9,6 +9,6 @@ Repository is used for crash course learning of new concepts and technology, as 
 __Underlined Changes__
 =======
 ### Contributors
-* \<YourName\>
++ \<YourName\>
 
 >>>>>>> b85f4a0f5bdc93c56acc1ffae52b54d5ef0e00a3
