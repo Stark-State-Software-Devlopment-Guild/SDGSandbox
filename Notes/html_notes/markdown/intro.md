@@ -39,18 +39,18 @@ Header tags are used to introduce different sections of your pages. They help br
 ###### For example:
 
 ```{.html caption="Hello Headers"}
-<h1>Hello Header1!</h1>
-<h2>Hello Header2!</h2>
-<h3>Hello Header3!</h3>
-<h4>Hello Header4!</h4>
+<h1>Header1!</h1>
+<h2>Header2!</h2>
+<h3>Header3!</h3>
+<h4>Header4!</h4>
 ```
 
 ###### Will produce:
 
-> <h1>Hello Header1!</h1>
-> <h2>Hello Header2!</h2>
-> <h3>Hello Header3!</h3>
-> <h4>Hello Header4!</h4>
+> <h1>Header1!</h1>
+> <h2>Header2!</h2>
+> <h3>Header3!</h3>
+> <h4>Header4!</h4>
 
 #### List Tags
 List tags can be used to separate independent sets of data. Very useful for setting information apart from bigger blocks of text.
