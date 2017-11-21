@@ -43,7 +43,35 @@ Will produce:
 > <h2>Hello Header2!</h2>
 > <p>Hello Paragraph!</p>
 
+Other useful tags include ordered and unordered lists.
+For example:
 
+```{.html caption="Lists"}
+<ol>
+	<li>Item 1</li>
+	<li>Item 2</li>
+	<li>Item 3</li>
+</ol>
 
+<ul>
+	<li>Item 1</li>
+	<li>Item 2</li>
+	<li>Item 3</li>
+<ul>
+```
+
+Will produce:
+
+><ol>
+>	<li>Item 1</li>
+>	<li>Item 2</li>
+>	<li>Item 3</li>
+></ol>
+>
+><ul>
+>	<li>Item 1</li>
+>	<li>Item 2</li>
+>	<li>Item 3</li>
+><ul> 
 
 [0]: https://www.w3schools.com/html/html_intro.asp "W3Schools"
