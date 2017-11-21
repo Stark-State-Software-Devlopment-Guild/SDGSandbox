@@ -108,7 +108,7 @@ Create a pasic profile with your name in an h1 header, about me with an h2 heade
 ###### Result:
 > <h1>Matt Markwald</h1>
 > <h2>about me:</h2>
-> <p>I have been coding since April 2016.</p>
+> <p>I have been programming since April 2016.</p>
 > <p>I currently code in:</p>
 > <ul>
 > 	<li>vb</li>
