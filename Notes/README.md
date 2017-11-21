@@ -1,3 +1,3 @@
 Notes
 -----------
-[Intro to Html](intro_html.md)
+[Intro to Html](html_demo/intro_html.md)
