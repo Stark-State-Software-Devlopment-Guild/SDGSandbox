@@ -2,7 +2,7 @@ Html Demo
 =========
 An introduction to Html
 -------------
-## What is html?
+### What is html?
 From the W3Schools [Website][0]:
 
 > * HTML stands for Hyper Text Markup Language
@@ -14,7 +14,7 @@ From the W3Schools [Website][0]:
 
 In short: Html is used to pass information to the browser on how to style pages.
 
-## What are Tags?
+### What are Tags?
 The html syntax is read by the rendering engine which applies the style based on the surrounding 'tags'.
 For example:
 
@@ -31,7 +31,7 @@ Notice the \/ before the p in the second tag.
 This indicates this this the closing tag tells the browser to end paragraph styling there.
 
 There are many different tags used for templating.
-<br>For example:
+For example:
 
 ```{.html caption="Hello Headers"}
 <h1>Hello Header!</h1>
