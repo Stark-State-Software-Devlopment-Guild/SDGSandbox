@@ -87,7 +87,7 @@ List tags can be used to separate independent sets of data. Very useful for sett
 
 ### Simple html profile
 #### Objective:
-Create a basic profile with your name in an h1 header, about me with an h2 header, a paragraph block with an a summary of yourself, and an ordered or unordered list topic is your choice (i.e. favorite movies, goals, what your learning, facts about yourself, etc)
+Create a basic profile with your name inside an h1 header, about me inside an h2 header, a paragraph block with a summary of yourself, and an ordered/unordered list on a topic of your choice (i.e. favorite movies, goals, what your learning, facts about yourself, etc).
 
 ###### Example:
 
