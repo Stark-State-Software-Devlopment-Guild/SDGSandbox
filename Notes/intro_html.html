@@ -1,0 +1,135 @@
+<h2 id="an-introduction-to-html">An introduction to html</h2>
+<h3 id="what-is-html">What is html?</h3>
+<h6 id="from-the-w3schools0-website">From the <a href="https://www.w3schools.com/html/html_intro.asp" title="W3Schools">W3Schools</a> Website:</h6>
+<blockquote>
+<ul>
+<li>HTML stands for Hyper Text Markup Language</li>
+<li>HTML describes the structure of Web pages using markup</li>
+<li>HTML elements are the building blocks of HTML pages</li>
+<li>HTML elements are represented by tags</li>
+<li>HTML tags label pices of content such as &quot;heading&quot;, &quot;paragraph&quot;, &quot;table&quot;, and so on</li>
+<li>Browsers do not display HTML tags, but use them to render the content of the page</li>
+</ul>
+</blockquote>
+<p>In short, Html is used to pass information to the browser on how to style pages.</p>
+<h3 id="what-are-tags">What are Tags?</h3>
+<p>Keywords surrounded by angle brackets that are read by the rendering engine. After parsing the file, the engine applies style based on the surrounding 'tags'.</p>
+<h4 id="paragraph-tag">Paragraph Tag</h4>
+<p>The paragraph tag is the most basic text display tag. It displays the inner-text in block format. Used for the main body of a given section.</p>
+<h6 id="for-example">For example:</h6>
+<div class="sourceCode" caption="Hello World"><pre class="sourceCode html"><code class="sourceCode html"><span class="kw">&lt;p&gt;</span>Hello World!<span class="kw">&lt;/p&gt;</span></code></pre></div>
+<h6 id="will-produce">Will produce:</h6>
+<blockquote>
+<p>
+Hello World!
+</p>
+</blockquote>
+<p>The above example uses simple paragraph tags &lt;p&gt; to enclose the plaintext between them. Notice the / before the p in the second tag. This indicates this this the closing tag tells the browser to end paragraph styling there.</p>
+<h4 id="header-tags">Header Tags</h4>
+<p>Header tags are used to introduce different sections of your pages.</p>
+<h6 id="for-example-1">For example:</h6>
+<div class="sourceCode" caption="Hello Headers"><pre class="sourceCode html"><code class="sourceCode html"><span class="kw">&lt;h1&gt;</span>Hello Header1!<span class="kw">&lt;/h1&gt;</span>
+<span class="kw">&lt;h2&gt;</span>Hello Header2!<span class="kw">&lt;/h2&gt;</span>
+<span class="kw">&lt;h3&gt;</span>Hello Header3!<span class="kw">&lt;/h3&gt;</span>
+<span class="kw">&lt;h4&gt;</span>Hello Header4!<span class="kw">&lt;/h4&gt;</span></code></pre></div>
+<h6 id="will-produce-1">Will produce:</h6>
+<blockquote>
+<h1>
+Hello Header1!
+</h1>
+<h2>
+Hello Header2!
+</h2>
+<h3>
+Hello Header3!
+</h3>
+<h4>
+Hello Header4!
+</h4>
+</blockquote>
+<h4 id="list-tags">List Tags</h4>
+<p>List tags can be used to separate independent sets of data.</p>
+<h6 id="for-example-2">For example:</h6>
+<div class="sourceCode" caption="Lists"><pre class="sourceCode html"><code class="sourceCode html"><span class="kw">&lt;ol&gt;</span>
+    <span class="kw">&lt;li&gt;</span>Item 1<span class="kw">&lt;/li&gt;</span>
+    <span class="kw">&lt;li&gt;</span>Item 2<span class="kw">&lt;/li&gt;</span>
+    <span class="kw">&lt;li&gt;</span>Item 3<span class="kw">&lt;/li&gt;</span>
+<span class="kw">&lt;/ol&gt;</span>
+
+<span class="kw">&lt;ul&gt;</span>
+    <span class="kw">&lt;li&gt;</span>Item 1<span class="kw">&lt;/li&gt;</span>
+    <span class="kw">&lt;li&gt;</span>Item 2<span class="kw">&lt;/li&gt;</span>
+    <span class="kw">&lt;li&gt;</span>Item 3<span class="kw">&lt;/li&gt;</span>
+<span class="kw">&lt;ul&gt;</span></code></pre></div>
+<h6 id="will-produce-2">Will produce:</h6>
+<blockquote>
+<ol>
+<li>
+Item 1
+</li>
+<li>
+Item 2
+</li>
+<li>
+Item 3
+</li>
+</ol>
+<ul>
+<li>
+Item 1
+</li>
+<li>
+Item 2
+</li>
+<li>
+Item 3
+</li>
+<ul>
+</blockquote>
+<h2 id="profile-demo">Profile Demo</h2>
+<h3 id="objective">Objective:</h3>
+<p>Create a pasic profile with your name in an h1 header, about me with an h2 header, a paragraph block with an a summary of yourself, include an ordered list and an unordered list of your choice (favorite movies, expectations, quick facts about yourself)</p>
+<h6 id="example">Example:</h6>
+<div class="sourceCode" caption="Profil Demo"><pre class="sourceCode html"><code class="sourceCode html"><span class="kw">&lt;h1&gt;</span>Matt Markwald<span class="kw">&lt;/h1&gt;</span>
+<span class="kw">&lt;h2&gt;</span>about me:<span class="kw">&lt;/h2&gt;</span>
+<span class="kw">&lt;p&gt;</span>I have been coding since April 2016.<span class="kw">&lt;/p&gt;</span>
+<span class="kw">&lt;p&gt;</span>I currently code in:<span class="kw">&lt;/p&gt;</span>
+<span class="kw">&lt;ul&gt;</span>
+    <span class="kw">&lt;li&gt;</span>vb<span class="kw">&lt;/li&gt;</span>
+    <span class="kw">&lt;li&gt;</span>c#<span class="kw">&lt;/li&gt;</span>
+    <span class="kw">&lt;li&gt;</span>php<span class="kw">&lt;/li&gt;</span>
+    <span class="kw">&lt;li&gt;</span>html/css<span class="kw">&lt;/li&gt;</span>
+    <span class="kw">&lt;li&gt;</span>sql<span class="kw">&lt;/li&gt;</span>
+<span class="kw">&lt;/ul&gt;</span></code></pre></div>
+<h6 id="result">Result:</h6>
+<blockquote>
+<h1>
+Matt Markwald
+</h1>
+<h2>
+about me:
+</h2>
+<p>
+I have been programming since April 2016.
+</p>
+<p>
+I currently code in:
+</p>
+<ul>
+<li>
+vb
+</li>
+<li>
+c#
+</li>
+<li>
+php
+</li>
+<li>
+html/css
+</li>
+<li>
+sql
+</li>
+</ul>
+</blockquote>
