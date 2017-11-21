@@ -7,7 +7,7 @@ An introduction to html
 > * HTML describes the structure of Web pages using markup
 > * HTML elements are the building blocks of HTML pages
 > * HTML elements are represented by tags
-> * HTML tags label pices of content such as "heading", "paragraph", "table", and so on
+> * HTML tags label pieces of content such as "heading", "paragraph", "table", and so on
 > * Browsers do not display HTML tags, but use them to render the content of the page
 
 In short, Html is used to pass information to the browser on how to style pages.
