@@ -6,4 +6,4 @@ An Introduction to GitHub Web Client
 
 > * HTML stands for Hyper Text Markup Language
 
-[0]:  "GitHub Hello World"
+[0]: https://guides.github.com/activities/hello-world/ "GitHub Hello World"
