@@ -1,6 +1,6 @@
 <h1>Gianmarco Tarantino</h1>
 <h2>About Me:</h2>
-<p>My first experience in coding was an intro to C++ class I took in high school in 2012.Although I did not pursue anything more until I first started college in 2015, I now have experience in the following languages:</p>
+<p>My first experience in coding was an intro to C++ class I took in high school in 2012.  Although I did not pursue anything more until I first started college in 2015, I now have experience in the following languages:</p>
 <ol>
     <li>C++</li>
     <li>Java</li>
