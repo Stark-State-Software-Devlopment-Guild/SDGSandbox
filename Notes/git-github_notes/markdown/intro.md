@@ -12,7 +12,7 @@ Github utalizes an object called a repository for organizing a project. Each rep
 
 ### Branches
 
-Upon creation of a repostitory github creates one default branch called master. Master is the branch that your stable finished project files are held on. When developing a new feature or adding files to the project repository they are added on a new branch.
+Upon creation of a repostitory github creates one default branch called master. Master is the branch that your stable code/files is stored in, which all other branches are derived from. When developing a new feature or adding files to the project repository they are added on a new branch.
 
 ###### Lets Create a New Branch in the Sandbox Repository:
 > 1. First click the dropdown menu that says "Branch: master"
@@ -27,9 +27,9 @@ Upon creation of a repostitory github creates one default branch called master. 
 
 ### Commits
 
-When adding, deleting, or editing files GitHub keeps track of these changes through commits. Commits are GitHubs way of knowing when your added files or changes are essentially "final", or ready for release.
+When adding, deleting, or editing files GitHub keeps track of these changes through commits. Commits are GitHub's way of knowing when your added files or changes are essentially "final", or ready for release.
 
-###### Lets Change and Commit those changes on our Branch
+##### Lets Make a Change and Commit Those Changes on our Branch:
 > 1. Click on the README.md file when on your branch
 >
 >      ![alt text][img4]
@@ -56,7 +56,7 @@ When adding, deleting, or editing files GitHub keeps track of these changes thro
 > 
 > 1. Click the Commit changes button
 > 
-###### After creating a Commit you can Veiw the Changes
+##### After creating a Commit you can Veiw the Changes
 > 1. Click the Code tab at the top left of the page.
 >
 >      ![alt text][img7]
@@ -68,9 +68,9 @@ When adding, deleting, or editing files GitHub keeps track of these changes thro
 >      ![alt text][img9]
 
 ### Merging and Pull Requests
-Once your feature is finished and tested you probably want your additions to be commented on by peers, and added to the master branch. <sub>Recall: Master branch is the branch that includes all the files to be included in the final version of your project.</sub> To include the changes and additions you've made on your current branch, you would need to "merge" your working branch with master. Before a merge can take place in GitHub a pull request must be made<sub>(master and develop branches are protected in all SDG repositories)</sub>. A pull request can be commented on by any project contrubutor, member or anyone with a github account. A pull request also shows any file additions and subtractions side by side.
+Once your feature is finished and tested you probably want your additions to be commented on by peers, and added to the master branch <sub>[note](# "Recall master branch is the branch that includes all the files to be included in the final version of your project")</sub>. To include the changes and additions you've made on your current branch, you would need to "merge" your working branch with master. Before a merge can take place in GitHub a pull request must be made <sub>[note](# "Master and develop branches are protected in all SDG repositories")</sub>. A pull request can be commented on by any project contrubutor, member or anyone with a github account. A pull request also shows any file additions and subtractions side by side.
 
-###### Lets Create a Pull Request for our Current Branch to Master:
+##### Lets Create a Pull Request for our Current Branch to Master:
 > 1. Click the pull requests tab to the right of the code tab.
 >
 >      ![alt text][img10]
