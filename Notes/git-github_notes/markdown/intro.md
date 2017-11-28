@@ -8,7 +8,7 @@ An Introduction to GitHub Web Client
 
 ## How Does it Work?
 
-Github utalizes an object called a repository for organizing a project. Each repository can conain file folders and any files needed for the project. GitHub controls collaberation and version controling through the concept of branches.
+Github utalizes an object called a repository for organizing a project. Each repository can contain file folders and any files needed for the project. GitHub controls collaberation and version controling through the concept of branches.
 
 ### Branches
 
@@ -27,7 +27,7 @@ Upon creation of a repostitory github creates one default branch called master. 
 
 ### Commits
 
-When adding, deleting, or editing files GitHub keeps track of these changes through commits. Commits are GitHubs way of knowing when your added files or changes are essentially "final", or ready to .
+When adding, deleting, or editing files GitHub keeps track of these changes through commits. Commits are GitHubs way of knowing when your added files or changes are essentially "final", or ready for release.
 
 ###### Lets Change and Commit those changes on our Branch
 > 1. Click on the README.md file when on your branch
@@ -52,12 +52,12 @@ When adding, deleting, or editing files GitHub keeps track of these changes thro
 > 1. Scroll to the bottom of the page where you see this box
 >
 >      ![alt text][img6]
->    <sub><b>Note:</b> Edit the top box to a short quick comment of the changes this smaller top box is called the commit message box the bottom box is for a lengthier description of the changes or additions it is called the description box. Wite both a short and a long explanation for your changes in the respective text boxes.<sub>
+>    <sub><b>Note:</b> Edit the top box to a short comment of the changes this smaller top box is called the commit message box the bottom box is for a lengthier description of the changes or additions it is called the description box. Wite both a short and a long explanation for your changes in the respective text boxes.<sub>
 > 
 > 1. Click the Commit changes button
 > 
 ###### After creating a Commit you can Veiw the Changes
-> 1. Click the Code tab at the top right of the page.
+> 1. Click the Code tab at the top left of the page.
 >
 >      ![alt text][img7]
 > 1. Click Commits. This shows the list of all the commits made for the branch your currently on.
@@ -77,7 +77,7 @@ Once your feature is finished and tested you probably want your additions to be 
 > 1. Click the new pull request button
 > 
 >      ![alt text][img11]
-> 1. Under Compring changes there are two dropdown menus to compare changes between branches. Fromthe dropdown menu starting with "base:" select the master branch, select your branch from the other. A green checkmark should appear to the right indicating that the two branches are able to merge with no conflicts. Once you ensure that the checkmark has apeared click the "Create pull request" button.
+> 1. Under Comparing changes there are two dropdown menus to compare changes between branches. From the dropdown menu starting with "base:" select the master branch, select your branch from the other dropdown. A green checkmark should appear to the right indicating that the two branches are able to merge with no conflicts. Once you ensure that the checkmark has apeared click the "Create pull request" button.
 >
 >      ![alt text][img12]
 > 1. Notice the box similar to the one from commiting. It shows the same message and description as the last commit. Edit this to illistrate all the differences between the compareing branches. Click "Create pull request".
