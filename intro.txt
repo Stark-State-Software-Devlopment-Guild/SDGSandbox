@@ -2,12 +2,18 @@
 <html>
 <body>
 
-<h1> Arthur Wolff <h1/>
+<h1> Arthur Wolff </h1>
 
-<h2>About Me:<h2/>
+<h2>About Me:</h2>
 
-<h3>Software Development Guild secretary<h3/>
+<p>Software Development Guild secretary</p>
 
-<p>Current coding languages<p/>
+<h3>Current coding languages</h3>
+<ul>
+  <li>C++</li>
+  <li>Java</li>
+  <li>Swift</li>
+</ul>
 
-<ul>C++, Java, Swift <ul/>
+</body>
+</html>
