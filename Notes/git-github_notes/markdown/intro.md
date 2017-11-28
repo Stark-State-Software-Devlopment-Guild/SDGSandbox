@@ -15,15 +15,15 @@ Github utalizes an object called a repository for organizing a project. Each rep
 Upon creation of a repostitory github creates one default branch called master. Master is the branch that your finalized finished project files are held on. When developing a new feature or adding files to the project repo they are added on a new branch.
 
 ###### Lets Create a New Branch in the Sandbox Repository:
-1. First click the dropdown menu that says "Branch: master"
-
-   ![alt text][img1]
-1. In the text box witin the menu add "feature/\<your username\>"
-
-   ![alt text][img2]
-1. Press enter! This creates a new branch with the name "feature/\<your username\>".
-    ###### Note: This new branch contains any files that were in the master branch.
-    ![alt text][img3]
+> 1. First click the dropdown menu that says "Branch: master"
+> 
+>    ![alt text][img1]
+> 1. In the text box witin the menu add "feature/\<your username\>"
+> 
+>    ![alt text][img2]
+> 1. Press enter! This creates a new branch with the name "feature/\<your username\>".
+>     ###### Note: This new branch contains any files that were in the master branch.
+>     ![alt text][img3]
 
 
 [0]: https://guides.github.com/activities/hello-world/ "GitHub Hello World"
