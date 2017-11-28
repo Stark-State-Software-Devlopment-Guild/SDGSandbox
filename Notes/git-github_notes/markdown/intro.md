@@ -73,9 +73,22 @@ Once your feature is finished and tested you probably want your additions to be 
 ###### Lets Create a Pull Request for our Current Branch to Master:
 > 1. Click the pull requests tab to the right of the code tab.
 >
+>      ![alt text][img10]
 > 1. Click the new pull request button
 > 
-> 1. 
+>      ![alt text][img11]
+> 1. Under Compring changes there are two dropdown menus to compare changes between branches. Fromthe dropdown menu starting with "base:" select the master branch, select your branch from the other. A green checkmark should appear to the right indicating that the two branches are able to merge with no conflicts. Once you ensure that the checkmark has apeared click the "Create pull request" button.
+>
+>      ![alt text][img12]
+> 1. Notice the box similar to the one from commiting. It shows the same message and description as the last commit. Edit this to illistrate all the differences between the compareing branches. Click "Create pull request".
+>
+>      ![alt text][img13]
+> 1. Notice the box next to the branching symbol. This box will look different than the one shown, since you dont have the ablity to merge with the comparing branch it will all be greyed out.
+>
+>      ![alt text][img14]
+> 1. Notice that you(and anyone else) can actively create comments for the pull request. While it may not be required in every repository, it is generally encouraged to give comments and critiques to pull requests.
+>
+>      ![alt text][img15]
 
 
 [0]: https://guides.github.com/activities/hello-world/ "GitHub Hello World"
@@ -86,5 +99,11 @@ Once your feature is finished and tested you probably want your additions to be 
 [img5]: ../img/step5.png "Tutorial img 5 shows commits step 2 visual taken by Caleb Wagner."
 [img6]: ../img/step6.png "Tutorial img 6 shows commits step 4 visual taken by Caleb Wagner."
 [img7]: ../img/step7.png "Tutorial img 7 shows commit changes step 1 visual taken by Caleb Wagner."
-[img8]: ../img/step8.png "Tutorial img 8 shows commits step 2 visual taken by Caleb Wagner."
-[img9]: ../img/step9.png "Tutorial img 9 shows commits step 3 visual taken by Caleb Wagner."
+[img8]: ../img/step8.png "Tutorial img 8 shows commit changes step 2 visual taken by Caleb Wagner."
+[img9]: ../img/step9.png "Tutorial img 9 shows commit changes step 3 visual taken by Caleb Wagner."
+[img10]: ../img/step10.png "Tutorial img 10 shows merge/pull requests step 1 visual taken by Caleb Wagner."
+[img11]: ../img/step11.png "Tutorial img 11 shows merge/pull requests step 2 visual taken by Caleb Wagner."
+[img12]: ../img/step12.png "Tutorial img 12 shows merge/pull requests step 3 visual taken by Caleb Wagner."
+[img13]: ../img/step13.png "Tutorial img 13 shows merge/pull requests step 4 visual taken by Caleb Wagner."
+[img14]: ../img/step14.png "Tutorial img 15 shows merge/pull requests step 5 visual taken by Caleb Wagner."
+[img15]: ../img/step15.png "Tutorial img 15 shows merge/pull requests step 6 visual taken by Caleb Wagner."
