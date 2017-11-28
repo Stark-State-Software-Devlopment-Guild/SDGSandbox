@@ -106,16 +106,14 @@ Create a basic profile with your name inside an h1 tag, the words 'about me' ins
 ```
 
 ###### Result:
-> <h1>Matt Markwald</h1>
+> <h1>Benjamin Stickel</h1>
 > <h2>about me:</h2>
-> <p>I have been programming since April 2016.</p>
+> <p>I have been programming semi-competently for a couple years.</p>
 > <p>I currently code in:</p>
 > <ul>
-> 	<li>vb</li>
-> 	<li>c#</li>
-> 	<li>php</li>
-> 	<li>html/css</li>
-> 	<li>sql</li>
+> 	<li>VB.NET</li>
+> 	<li>VB6</li>
+> 	<li>T-SQL</li>
 > </ul>
 
 
