@@ -67,6 +67,15 @@ When adding, deleting, or editing files GitHub keeps track of these changes thro
 >      ###### Note: Your commit message is like a title at the top folowed by the description underneath.
 >      ![alt text][img9]
 
+### Merging and Pull Requests
+Once your feature is finished and tested you probably want your additions to be commented on by peers, and added to the master branch. <sub>Recall: Master branch is the branch that includes all the files to be included in the final version of your project.</sub> To include the changes and additions you've made on your current branch, you would need to "merge" your working branch with master. Before a merge can take place in GitHub a pull request must be made<sub>(master and develop branches are protected in all SDG repositories)</sub>. A pull request can be commented on by any project contrubutor, member or anyone with a github account. A pull request also shows any file additions and subtractions side by side.
+
+###### Lets Create a Pull Request for our Current Branch to Master:
+> 1. Click the pull requests tab to the right of the code tab.
+>
+> 1. Click the new pull request button
+> 
+> 1. 
 
 
 [0]: https://guides.github.com/activities/hello-world/ "GitHub Hello World"
